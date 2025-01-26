@@ -6,9 +6,11 @@
 class script(object):
     START_TXT = """<b>Hello {} 👋, My Name Is <a href=https://t.me/{}>{}</a>
     
-✏️ I Am A Advance File Stream Bot With Multiple Player Support And Url Shortner. Best Ui Performance.
+✏️ I'm the File-to-Link Bot. Just send me any file, and I'll swiftly provide you with a direct download link, along with a streaming option.
 
-Now Send Me A Media To See Magic ✨</b>"""
+Experience blazing-fast speeds for both downloading and streaming!
+
+And remember, I'm fully operational in channel too. ✨</b>"""
 
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
